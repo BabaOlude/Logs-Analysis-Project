@@ -1,5 +1,10 @@
 # Logs-Analysis-Project
 
+Technologies That I Used
+Python
+PostgreSQL
+Git Bash
+
 This tool produces answers to the following three questions based on the data in the database:
 
 What are the most popular three articles of all time?
@@ -19,3 +24,7 @@ Run the command " psql news" to open PostgreSQL command line program
 After you created the view, exit PostgreSQL command line by running "\q" command.
 
 To load the data, use the command psql -d news -f newsdata.sql to connect a database and run the necessary SQL statements.
+
+What I Learned About Not Using VirtualBox and Vagrant
+
+
